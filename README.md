@@ -1,3 +1,3 @@
 # Web stuff
-*Example Histropedia JS timeline
-*Data I'm calling
+<li> Example Histropedia JS timeline
+<li> Data I'm calling
