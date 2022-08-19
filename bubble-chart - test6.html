@@ -15,7 +15,7 @@ var pack = d3.pack()
     .size([width, height])
     .padding(1.5);
 
-d3.csv("stats-2020-nodes.csv", function(d) {
+d3.csv("carbon.csv", function(d) {
   d.value = +d.value;
   if (d.value) return d;
 }, function(error, classes) {
